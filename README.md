@@ -5,14 +5,13 @@ The system processes social media data stored in .xlsx datasets, applies data pr
 engineering, and trains machine learning models using pandas, scikit-learn and other Python libraries within 
 a Jupyter Notebook environment.
 
----
+
 ## Project Overview
 
 The rapid dissemination of misinformation on social media is a growing concern. This project employs supervised 
 machine learning techniques to classify content as either `fake` or `real`, using labelled datasets 
 stored in Microsoft Excel (.xlsx) format.
 
----
 
 ### Features
 - Data Loading and Processing: Reads .xlsx datasets utilising pandas.
