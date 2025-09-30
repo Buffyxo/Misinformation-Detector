@@ -1,4 +1,4 @@
-#Misinformation Detection on Social Media
+# Misinformation Detection on Social Media
 
 This project presents a machine learning pipeline designed to detect misinformation on social media platforms. 
 The system processes social media data stored in .xlsx datasets, applies data preprocessing, feature 
