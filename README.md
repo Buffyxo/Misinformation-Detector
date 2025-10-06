@@ -20,3 +20,16 @@ stored in Microsoft Excel (.xlsx) format.
 - Evaluation: Produces accuracy metrics, confusion matrices, and other performance indicators.
 - Interactive Analysis: Entire workflow contained within a Jupyter Notebook for ease of experimentation and
 reproducibility.
+
+#### How to run the code
+1. Download Python
+2. Downlaod Jupyter Notebook
+3. On Terminal (Vscode)
+  - pip install pandas
+  - pip install numpy
+  - pip install seaborn
+  - pip install matplotlib
+  - pip install scikit-learn
+  - pip install openpyxl
+  - pip install jupyter
+4. Run all the code 
