@@ -25,11 +25,12 @@ reproducibility.
 1. Download Python
 2. Downlaod Jupyter Notebook
 3. Download conda from: https://www.anaconda.com/ or https://docs.conda.io/en/latest/miniconda.html
-4. Create new Conda environment:
+4. Create new Conda environment (using your version of python):
 ```
 conda create --name myenv python=3.11
 ```
-5. Activate conda:
+5. In VSCode, on the top-right corner, click "Select Kernel", "Python Environments...", and select you environment.
+6. In system or VSCode terminal, activate conda:
 ```
 conda activate myenv
 ```
@@ -37,4 +38,4 @@ conda activate myenv
 ```
 pip install pandas numpy seaborn matplotlib scikit-learn openpyxl jupyter
 ```
-4. Run all the code 
+4. Run the code in Jupyter notebook by clicking on the play button. 
