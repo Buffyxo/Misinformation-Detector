@@ -24,12 +24,17 @@ reproducibility.
 #### How to run the code
 1. Download Python
 2. Downlaod Jupyter Notebook
-3. On Terminal (Vscode)
-  - pip install pandas
-  - pip install numpy
-  - pip install seaborn
-  - pip install matplotlib
-  - pip install scikit-learn
-  - pip install openpyxl
-  - pip install jupyter
+3. Download conda from: https://www.anaconda.com/ or https://docs.conda.io/en/latest/miniconda.html
+4. Create new Conda environment:
+```
+conda create --name myenv python=3.11
+```
+5. Activate conda:
+```
+conda activate myenv
+```
+3. Install required packages: 
+```
+pip install pandas numpy seaborn matplotlib scikit-learn openpyxl jupyter
+```
 4. Run all the code 
